@@ -25,4 +25,6 @@ D:\GitHub\SFML_Projek\SFML_Projek\Game.cpp(218,62): warning C4244: 'argument': c
           [
               T=unsigned int
           ]
+  main.cpp
+  Generating Code...
   SFML_Projek.vcxproj -> D:\GitHub\SFML_Projek\Debug\SFML_Projek.exe

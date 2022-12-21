@@ -1,11 +1,26 @@
 ﻿  Game.cpp
-D:\GitHub\SFML_Projek\SFML_Projek\Game.cpp(58,97): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\GitHub\SFML_Projek\SFML_Projek\Game.cpp(62,65): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\GitHub\SFML_Projek\SFML_Projek\Game.cpp(78,97): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
           with
           [
               T=int
           ]
-D:\GitHub\SFML_Projek\SFML_Projek\Game.cpp(92,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-D:\GitHub\SFML_Projek\SFML_Projek\Game.cpp(92,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+D:\GitHub\SFML_Projek\SFML_Projek\Game.cpp(118,68): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\GitHub\SFML_Projek\SFML_Projek\Game.cpp(118,56): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\GitHub\SFML_Projek\SFML_Projek\Game.cpp(218,93): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\GitHub\SFML_Projek\SFML_Projek\Game.cpp(218,62): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
           with
           [
               T=unsigned int
